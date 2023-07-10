@@ -1,7 +1,5 @@
-## Oi eu sou o Gusta, desenvolvedor mobile em formação.
+## Oi eu sou o Gusta, desenvolvedor Back-End em formação.
 e criador de conteúdo de programação e tecnologia nas horas vagas :)
-
-###
 
 <div align="center">
   <a href="https://github.com/lgustavogomdam">
@@ -9,7 +7,7 @@ e criador de conteúdo de programação e tecnologia nas horas vagas :)
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lgustavogomdam&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
-### Tecnologias conhecidas:
+## Tecnologias conhecidas:
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Gusta-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
@@ -25,7 +23,7 @@ e criador de conteúdo de programação e tecnologia nas horas vagas :)
 
 </div>
 
-### Tecnologias em formação:
+## Tecnologias em formação:
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Gusta-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -35,8 +33,6 @@ e criador de conteúdo de programação e tecnologia nas horas vagas :)
 
   <img align="center" alt="Gusta-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
 </div>
-
-##
 
 <div> 
   <a href="https://www.youtube.com/@recurscire" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
